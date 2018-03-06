@@ -1,0 +1,12 @@
+﻿{
+  // -- The same file in project SampleCat will be replaced by this one.
+  // -- No setting in the same file of project SampleCat will take affective.
+
+  // -- DEMO/UAT/PRODUCTION
+  "Environment": "UAT",
+
+  "DatabaseServerNetworkAddress": "localhost",
+  "NameOfProjectDatabase": "PurPurPur",
+  "DatabaseUsername": "Zay-DEV",
+  "DatabasePassword": "123"
+}

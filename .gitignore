@@ -1,3 +1,12 @@
 .vs/
+
 SettingCat/bin/
 SettingCat/obj/
+
+SampleCat/bin/
+SampleCat/obj/
+
+UnitTestCat/bin/
+UnitTestCat/obj/
+
+packages/

@@ -1,0 +1,9 @@
+﻿{
+  // -- DEMO/UAT/PRODUCTION
+  "Environment": "DEMO",
+
+  "DatabaseServerNetworkAddress": "127.0.0.1",
+  "NameOfProjectDatabase": "PurPurPur",
+  "DatabaseUsername": "sa",
+  "DatabasePassword": "123"
+}
